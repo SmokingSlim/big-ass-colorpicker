@@ -1,0 +1,20 @@
+{
+  "name": "big-ass-colorpicker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/sortablejs": "^1.15.9",
+    "nuxt": "^4.0.0"
+  },
+  "dependencies": {
+    "culori": "^3.3.0",
+    "sortablejs": "^1.15.7"
+  }
+}
